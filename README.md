@@ -68,9 +68,11 @@ import os
 
 2.AUTOMATED REPORT GENERATION:
 
-https://github.com/Suleman1307/CODTECH_TASKS/issues/2#issue-2929091213
+[report.pdf](https://github.com/user-attachments/files/19323306/report.pdf)
 
-3.Text Vectorization (TF-IDF)
+3.AI CHATBOT WITH NLP:
+
+
 4.Model Training (Naive Bayes Classifier):
 5.Model Testing
 6.Model Evaluation
