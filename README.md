@@ -58,7 +58,6 @@ import zipfile
 import os
 
 # OUTPUT:
-**How the Output is Produced**
 
 1.API INTEGRATION AND DATA VISUALIZATION:
 
@@ -72,7 +71,8 @@ import os
 
 3.AI CHATBOT WITH NLP:
 
+![Image](https://github.com/user-attachments/assets/3877053b-b551-4d76-b138-a8f92d468d12)
 
-4.Model Training (Naive Bayes Classifier):
-5.Model Testing
-6.Model Evaluation
+4.MACHINE LEARNING MODEL IMPLEMENTATION:
+
+
