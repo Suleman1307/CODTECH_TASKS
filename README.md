@@ -59,12 +59,16 @@ import os
 
 # OUTPUT:
 **How the Output is Produced**
+
 1.API INTEGRATION AND DATA VISUALIZATION:
+
 ![Image](https://github.com/user-attachments/assets/5a51d3cd-a68f-4645-af1a-c66c0b64c4d4)
 
 ![Image](https://github.com/user-attachments/assets/0be2835e-3d2c-46b9-bb8b-bda5acedf779)
 
 2.AUTOMATED REPORT GENERATION:
+
+https://github.com/Suleman1307/CODTECH_TASKS/issues/2#issue-2929091213
 
 3.Text Vectorization (TF-IDF)
 4.Model Training (Naive Bayes Classifier):
