@@ -75,4 +75,6 @@ import os
 
 4.MACHINE LEARNING MODEL IMPLEMENTATION:
 
+![Image](https://github.com/user-attachments/assets/68cf660b-d68e-4387-b76d-59bb90081ff8)
+
 
