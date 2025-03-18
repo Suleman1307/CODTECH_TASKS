@@ -13,7 +13,7 @@
 
 **DESCRIPTION**:
 
-# LIBRARIES USED IN API-INTEGRATION-AND-DATA-VISUALIZATION:
+# LIBRARIES USED IN API INTEGRATION AND DATA VISUALIZATION:
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -26,7 +26,7 @@ from datetime import datetime
 3.Visualization
 4.Error Handling
 
-# LIBRARIES USED IN AUTOMATED_REPORT_GENERATION:
+# LIBRARIES USED IN AUTOMATED REPORT GENERATION:
 import csv
 from fpdf import FPDF
 
@@ -34,7 +34,7 @@ from fpdf import FPDF
 1.Reading Data
 2.Generating the PDF
 
-# LIBRARIES USED IN AI_CHATBOT_WITH_NLP:
+# LIBRARIES USED IN AI CHATBOT WITH NLP:
 import nltk
 from nltk.chat.util import Chat, reflections
 
@@ -45,7 +45,7 @@ from nltk.chat.util import Chat, reflections
 4.Fallback Response
 5.Chat Continuation
 
-# LIBRARIES USED IN MACHINE_LEARNING_MODEL_IMPLEMENTATION:
+# LIBRARIES USED IN MACHINE LEARNING MODEL IMPLEMENTATION:
 #Import necessary libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
